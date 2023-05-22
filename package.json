@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4"
+  },
+  "eslint.options": { "configFile": "eslintrc.json" },
+  "compilerOptions": {
+    "noUnusedLocals": false
+  }
+}
